@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "productId": 147,
+            "name": "Shirt - 147",
+            "description": "Branded shirt",
+            "shoppingDate": "2017-12-11",
+            "category": "Shirts",
+            "price": 22,
+            "discount": 2,
+            "imageUrl": "images/shirt.png"
+        },
+        {
+            "productId": 148,
+            "name": "Shirt - 148",
+            "description": "Branded shirt",
+            "shoppingDate": "2017-12-11",
+            "category": "Shirts",
+            "price": 54,
+            "discount": 2,
+            "imageUrl": "images/shirt.png"
+        },
+        {
+            "productId": 149,
+            "name": "Shirt - 149",
+            "description": "Branded shirt",
+            "shoppingDate": "2017-12-11",
+            "category": "Shirts",
+            "price": 34,
+            "discount": 2,
+            "imageUrl": "images/shirt.png"
+        },
+        {
+            "productId": 150,
+            "name": "Shirt - 150",
+            "description": "Branded shirt",
+            "shoppingDate": "2017-12-11",
+            "category": "Shirts",
+            "price": 34,
+            "discount": 2,
+            "imageUrl": "images/shirt.png"
+        },
+        {
+            "productId": 151,
+            "name": "Shirt - 151",
+            "description": "Branded shirt",
+            "shoppingDate": "2017-12-11",
+            "category": "Shirts",
+            "price": 54,
+            "discount": 2,
+            "imageUrl": "images/shirt.png"
+        },
+        {
+            "productId": 152,
+            "name": "Shirt - 152",
+            "description": "Branded shirt",
+            "shoppingDate": "2017-12-11",
+            "category": "Shirts",
+            "price": 34,
+            "discount": 2,
+            "imageUrl": "images/shirt.png"
+        },
+        {
+            "productId": 153,
+            "name": "Shirt - 153",
+            "description": "Branded shirt",
+            "shoppingDate": "2017-12-11",
+            "category": "Shirts",
+            "price": 64,
+            "discount": 2,
+            "imageUrl": "images/shirt.png"
+        },
+        {
+            "productId": 154,
+            "name": "Shirt - 154",
+            "description": "Branded shirt",
+            "shoppingDate": "2017-12-11",
+            "category": "Shirts",
+            "price": 23,
+            "discount": 2,
+            "imageUrl": "images/shirt.png"
+        },
+        {
+            "productId": 155,
+            "name": "Shirt - 155",
+            "description": "Branded shirt",
+            "shoppingDate": "2017-12-11",
+            "category": "Shirts",
+            "price": 34,
+            "discount": 2,
+            "imageUrl": "images/shirt.png"
+        },
+        {
+            "productId": 156,
+            "name": "Shirt - 156",
+            "description": "Branded shirt",
+            "shoppingDate": "2017-12-11",
+            "category": "Shirts",
+            "price": 45,
+            "discount": 2,
+            "imageUrl": "images/shirt.png"
+        }
+    ]
+}

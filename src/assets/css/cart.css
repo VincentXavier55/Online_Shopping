@@ -1,0 +1,103 @@
+body {
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+@font-face {
+    font-family: 'Glyphicons Halflings';
+
+  src: url('../fonts/glyphicons-halflings-regular.eot');
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+
+.header-wrapper .navbar{
+    background-color: rgb(12, 12, 88);
+    color: #fff;
+    height: 80px;
+    border-radius: 0;
+    padding: 20px;
+}
+
+.header-wrapper .navbar .logo{
+    font-size: 20px;
+    margin: 0;
+    height: 100%;
+}
+
+.header-wrapper .search-panel > div{
+    margin: 0;
+    padding: 0;
+}
+
+.header-wrapper .search-container{
+    padding: 7px;
+    width: 100px;
+    height: 34px;
+    background-color: rgb(196, 168, 44);
+}
+
+.header-wrapper .search-panel input{
+    border-radius: 0;
+}
+
+.header-wrapper a{
+    color: #fff;
+    font-size: 16px;
+}
+
+.header-wrapper a span{
+    padding: 5px 5px 5px 10px;
+}
+
+.heading{
+    color: rgb(17, 111, 199);
+    padding: 20px;
+    font-size: 18px;
+}
+
+.add-link{
+    float: right;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.line{
+    border-bottom: 1px dotted #000;
+    margin: 0 20px;
+}
+
+.product-item{
+    padding:20px;
+    text-align: center;
+}
+
+.product-item .item-desc span.product-name {
+    display: block;
+    font-weight: bold;
+    color: rgb(17, 111, 199);
+    padding: 5px 0;
+}
+
+.product-item .item-desc span.product-price {
+    display: block;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.modal-header .name-span{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.edit-section .editable{
+    padding: 10px;
+}
+
+.edit-section .editable .info-label{
+    font-weight: bold;
+}
+
+.edit_btn_div, .add_btn_div{
+    text-align: right;
+    padding: 10px;
+}
